@@ -5,11 +5,6 @@ public class Hello
    {
 	System.Console.WriteLine("Hello, World!");
 	System.Console.WriteLine("Hello, GitHub!");
-<<<<<<< HEAD
-	System.Console.WriteLine("Hello, Local!");
+	System.Console.WriteLine("Hello, Branch!");
    }
 }
-=======
-   }
-}
->>>>>>> d7e482771b074634e6fd0781446590c078789131
